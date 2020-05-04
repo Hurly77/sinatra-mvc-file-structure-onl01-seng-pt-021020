@@ -7,6 +7,14 @@ def initialize(name, breed, age)
   @age = age
 end
 
+def save
+
+end
+
+def self.all
+
+end
+
 end
 
 
