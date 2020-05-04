@@ -14,7 +14,7 @@ def save
 end
 
 def self.all
-
+@@all
 end
 
 
