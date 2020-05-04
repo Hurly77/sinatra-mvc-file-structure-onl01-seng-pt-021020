@@ -10,7 +10,7 @@ def initialize(name, breed, age)
 end
 
 def save
-
+@@all << self
 end
 
 def self.all
